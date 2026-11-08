@@ -1,0 +1,6 @@
+{
+  "name": "Cybersafe Community",
+  "description": "An accessible Australian community awareness platform to help people of all ages recognise online scams, secure accounts, and find trusted help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
